@@ -1,0 +1,33 @@
+body{
+	background-color: black;
+	font-family: 'Indie Flower', cursive;
+    color: #EBEBEB;
+    transition: 3s all;
+}
+
+a:hover{
+	color:orange;
+	font-size:17px;
+}
+
+a{
+	text-decoration: none;
+	color:  #EBEBEB;
+
+
+}
+
+dl{
+	display: inline-block;
+	margin-left: 30%;
+	margin-right: 30%;
+
+	border: 6px dashed blue;
+	border-radius: 7px;
+	transition: 5s all;
+	padding: 10px;
+}
+
+img{
+	max-height: 350px;
+}
